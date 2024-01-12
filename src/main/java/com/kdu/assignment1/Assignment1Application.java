@@ -17,7 +17,7 @@ public class Assignment1Application {
 
 	@GetMapping("/")
 	public String index() {
-		return "Hello, Khushi Rani!!!";
+		return "Hello, Khushi Rani!!!(Azure)";
 	}
 	@GetMapping("/hello")
 	public String index1() {
