@@ -16,7 +16,7 @@ public class Assignment1Application {
 	class HelloController {
 		@GetMapping("/")
 		public String index() {
-			return "Hello, Khushi Rani!";
+			return "Hello, Khushi Rani!!!";
 		}
 	}
 }
